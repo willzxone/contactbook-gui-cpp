@@ -1,0 +1,9 @@
+C:\Users\walee\source\repos\FINAL PROJECT WINFORM\x64\Debug\FINAL PROJECT WINFORM.vcxproj.AssemblyReference.cache
+C:\Users\walee\source\repos\FINAL PROJECT WINFORM\x64\Debug\FINALPROJECTWINFORM.FORMCONTACTBOOK.resources
+C:\Users\walee\source\repos\FINAL PROJECT WINFORM\x64\Debug\FINAL PROJECT WINFORM.vcxproj.GenerateResource.cache
+C:\Users\walee\source\repos\FINAL PROJECT WINFORM\x64\Debug\FINAL PROJECT WINFORM.exe
+C:\Users\POCHINI\Desktop\final-project-contacts-book-vanqusihers-main_2\final-project-contacts-book-vanqusihers-main\x64\Debug\FINAL PROJECT WINFORM.vcxproj.AssemblyReference.cache
+C:\Users\POCHINI\Desktop\final-project-contacts-book-vanqusihers-main_2\final-project-contacts-book-vanqusihers-main\x64\Debug\FINAL PROJECT WINFORM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\POCHINI\Desktop\final-project-contacts-book-vanqusihers-main_2\final-project-contacts-book-vanqusihers-main\x64\Debug\FINALPROJECTWINFORM.FORMCONTACTBOOK.resources
+C:\Users\POCHINI\Desktop\final-project-contacts-book-vanqusihers-main_2\final-project-contacts-book-vanqusihers-main\x64\Debug\FINAL PROJECT WINFORM.vcxproj.GenerateResource.cache
+C:\Users\POCHINI\Desktop\final-project-contacts-book-vanqusihers-main_2\final-project-contacts-book-vanqusihers-main\x64\Debug\FINAL PROJECT WINFORM.exe
