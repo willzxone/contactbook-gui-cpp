@@ -1,1 +1,28 @@
-﻿  FINAL PROJECT WINFORM.vcxproj -> C:\Users\POCHINI\Desktop\final-project-contacts-book-vanqusihers-main_2\final-project-contacts-book-vanqusihers-main\x64\Debug\FINAL PROJECT WINFORM.exe
+﻿  additionalDetails.cpp
+  Address.cpp
+  compare.cpp
+  Contact.cpp
+  ContactsBook.cpp
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\searching.h(17,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\searching.h(18,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\historyobject.h(13,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FORMCONTACTBOOK.cpp
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\historyobject.h(13,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\FORMCONTACTBOOK.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Group.cpp
+  Main.cpp
+  search.cpp
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\historyobject.h(13,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\Sorting.h(43): warning C4172: returning address of local variable or temporary: obj
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\search.cpp(29): warning C4172: returning address of local variable or temporary: obj
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\FORMCONTACTBOOK.h(3015): warning C4715: 'FINALPROJECTWINFORM::MyForm::CheckContactInGroupsGeneral': not all control paths return a value
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\FORMCONTACTBOOK.h(3138): warning C4715: 'FINALPROJECTWINFORM::MyForm::compareContacts': not all control paths return a value
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\searching.h(63): warning C4172: returning address of local variable or temporary: obj
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\searching.h(63): warning C4172: returning address of local variable or temporary: obj
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\ContactsBook.cpp(69): warning C4172: returning address of local variable or temporary: obj
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\sorting.h(43): warning C4172: returning address of local variable or temporary: obj
+C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\ContactsBook.cpp(88): warning C4172: returning address of local variable or temporary: obj
+  additionalDetails.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FINAL PROJECT WINFORM.vcxproj -> C:\Users\walee\Desktop\UNIVERSITY\Extra\C++ PROJECTS\final-project-contacts-book-vanqusihers-main\contactbook-gui-cpp\x64\Debug\FINAL PROJECT WINFORM.exe
